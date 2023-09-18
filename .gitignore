@@ -1,0 +1,2 @@
+# ignore complied python files and directories
+__pycache__/
