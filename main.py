@@ -1,3 +1,10 @@
+"""
+This python scipt is the main script to run all the classes
+and print the result
+
+@ usage python3 main.py
+"""
+
 
 from modules.animal import Dog, Cow
 from modules.calculator import Calculator
